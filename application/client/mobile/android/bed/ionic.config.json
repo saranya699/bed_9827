@@ -1,0 +1,7 @@
+{
+  "name": "bed",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
